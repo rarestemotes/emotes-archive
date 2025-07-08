@@ -1,0 +1,22 @@
+body {
+    color: white;
+    background-color: #4c4c4c;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+img {
+    height: 32px; 
+}
+.emotes li:nth-child(odd) {
+    background-color: #717171;
+}
+.emotes li {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.http li {
+    height: 32px;
+}
+a {
+    color: #228fff;
+}
